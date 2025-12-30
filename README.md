@@ -1,7 +1,6 @@
 # Hi there, I'm Roberto 👋
 
 I’m a **Web Developer** passionate about transforming ideas into practical applications. I love building tools that simplify and enhance people's everyday lives.
-
 Beyond coding, I draw inspiration from electronic music, which fuels my curiosity, creativity, and drive to constantly experiment 🎶
 
 ---
