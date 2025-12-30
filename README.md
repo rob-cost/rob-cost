@@ -1,9 +1,10 @@
-# Hi there 👋 I’m Roberto
+# Hi there, I'm Roberto 👋
 
-I’m a **Web Developer**, passionate about building web applications and a lifelong connection to music 🎶.  
-I enjoy turning ideas into useful apps and coding during my free time.
+I’m a **Web Developer** passionate about transforming ideas into practical applications. I love building tools that simplify and enhance people's everyday lives.
 
----
+Beyond coding, I draw inspiration from electronic music, which fuels my curiosity, creativity, and drive to constantly experiment 🎶
+
+--
 
 ## 🛠️ Tech Stack
 
@@ -24,22 +25,21 @@ I enjoy turning ideas into useful apps and coding during my free time.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
 
----
+--
 
 ## 🌱 Currently
 
 - Focusing on **backend development & APIs**
-- Improving my knowledge of **authentication, security, and data modeling**
-- Building projects that combine **clean code and real-world use cases**
+- Currently reading **Fluent Python**
+- Building projects for **real-world use cases**
 
----
+--
 
 ## 🤝 Let’s Connect
 
 I’m always happy to connect, exchange ideas, or collaborate on interesting projects.
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/costantino-roberto/)
 - 📧 Feel free to reach out!
 
-Thanks for stopping by — happy coding 🚀
 
