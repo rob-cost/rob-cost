@@ -4,7 +4,7 @@ I’m a **Web Developer** passionate about transforming ideas into practical app
 
 Beyond coding, I draw inspiration from electronic music, which fuels my curiosity, creativity, and drive to constantly experiment 🎶
 
---
+---
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +25,7 @@ Beyond coding, I draw inspiration from electronic music, which fuels my curiosit
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
 
---
+---
 
 ## 🌱 Currently
 
@@ -33,7 +33,7 @@ Beyond coding, I draw inspiration from electronic music, which fuels my curiosit
 - Currently reading **Fluent Python**
 - Building projects for **real-world use cases**
 
---
+---
 
 ## 🤝 Let’s Connect
 
