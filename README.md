@@ -39,6 +39,6 @@ Beyond coding, I draw inspiration from electronic music, which fuels my curiosit
 I’m always happy to connect, exchange ideas, or collaborate on interesting projects.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/costantino-roberto/)
-- 📧 Feel free to reach out!
+- 📧 [Email me](mailto:robscostantino@gmail.com.com)
 
 
